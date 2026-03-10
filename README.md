@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Võ Văn Thành
 
-<!--
-**vanthanhvipvo/vanthanhvipvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🎨 Graphic Designer (Junior)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Liên hệ
+
+📧 Email: [vanthanhvipvo@gmail.com](mailto:vanthanhvipvo@gmail.com)
+
+💬 Zalo: [Chat Zalo](https://zalo.me/0367964072)
+
+👍 Facebook: [Facebook của tôi](https://www.facebook.com/thanh.vo.610063)
+
+💻 Github: https://github.com/vanthanhvipvo
+
+---
+
+## 🚀 Skills
+
+- HTML
+- CSS
+- PHP (Laravel)
+- MySQL
+- Adobe Photoshop
+- Adobe Illustrator
+- Canva
+
+---
+
+## 📂 Projects
+
+🔹 Website tin tức âm nhạc (Laravel + MySQL)  
+🔹 Website quản lý đặt sân  
+🔹 Thiết kế logo / poster / banner
