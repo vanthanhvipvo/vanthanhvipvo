@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Võ Văn Thành
 
-💻 Web Developer | 🎨 Graphic Designer (Junior)
+💻 Web Developer | 🎨 Graphic Designer (Junior) | Video Editor
 
 ---
 
