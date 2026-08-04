@@ -25,6 +25,7 @@
 - Adobe Photoshop
 - Adobe Illustrator
 - Canva
+- Capcut 
 
 ---
 
@@ -33,3 +34,4 @@
 🔹 Website tin tức âm nhạc (Laravel + MySQL)  
 🔹 Website quản lý đặt sân  
 🔹 Thiết kế logo / poster / banner
+🔹 Edit video dài + ngắn
